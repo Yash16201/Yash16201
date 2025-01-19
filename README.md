@@ -1,19 +1,19 @@
 # 💻 Yash Modi  
 
 🎓 **Master's in Computer Science** | Seattle University (2023-2025)  
-🌟 Aspiring **Software Development Engineer** | Passionate Problem Solver  
+🌟 Aspiring **Software Development Engineer**
 
 ---
 
 ## 👋 About Me  
 
-Hi there! I'm **Yash Modi**, a dedicated and ambitious Computer Science student with a passion for creating scalable and efficient software solutions. With a strong foundation in full-stack development and hands-on experience in building impactful applications, I'm actively pursuing opportunities in Software Development Engineer roles.  
+Hi there! I'm **Yash Modi**, a dedicated and ambitious Computer Science student with a passion for creating scalable and efficient software solutions. With a strong foundation in full-stack development and hands-on experience in building impactful applications, I'm actively looking opportunities in Software Development Engineer roles.  
 
 ### 🔍 Interests:  
 - Full-stack Web Development  
-- Data Structures and Algorithms  
-- Problem-Solving and System Design  
-- Cloud Computing and Scalable Solutions  
+- Software Development  
+- Software Testing  
+- Cloud Computing 
 
 ---
 
@@ -35,11 +35,11 @@ Hi there! I'm **Yash Modi**, a dedicated and ambitious Computer Science student 
 
 ## 🛠️ Technical Skills  
 
-**Languages:** Java, Python, JavaScript, SQL, C++  
-**Web Development:** React, Node.js, Express.js, HTML, CSS  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, Postman, Docker  
-**Concepts:** Data Structures, Algorithms, Object-Oriented Programming (OOP), API Design  
+**Languages:** Java, Python, JavaScript, SQL, C++, C#.  
+**Web Development:** React, Node.js, Express.js, HTML, CSS, Javascript 
+**Databases:** MySQL, MongoDB.  
+**Tools:** Git, GitHub, Postman.
+**Concepts:** Data Structures, Algorithms, Object-Oriented Programming (OOP), API Design.  
 
 ---
 
@@ -52,8 +52,8 @@ Hi there! I'm **Yash Modi**, a dedicated and ambitious Computer Science student 
 
 ## 🌐 Connect with Me  
 
-- **LinkedIn**: [Yash Modi](https://www.linkedin.com/in/yash-modi-850a68152/)  
-- **GitHub**: [github.com/Yash-Modi](https://github.com/Yash-Modi)  
-- **Email**: yashmodi@example.com  
+- **LinkedIn**: [Yash Modi](https://www.linkedin.com/in/yashpmodi)  
+- **GitHub**: [github.com/Yash-Modi](https://github.com/Yash16201)  
+- **Email**: modiy2433@gmail.com 
 
 Let's collaborate and build something amazing together! 🚀
