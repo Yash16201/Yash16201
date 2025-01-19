@@ -36,7 +36,7 @@ Hi there! I'm **Yash Modi**, a dedicated and ambitious Computer Science student 
 ## 🛠️ Technical Skills  
 
 **Languages:** Java, Python, JavaScript, SQL, C++, C#.  
-**Web Development:** React, Node.js, Express.js, HTML, CSS, Javascript 
+**Web Development:** React, Node.js, Express.js, HTML, CSS, Javascript.
 **Databases:** MySQL, MongoDB.  
 **Tools:** Git, GitHub, Postman.
 **Concepts:** Data Structures, Algorithms, Object-Oriented Programming (OOP), API Design.  
